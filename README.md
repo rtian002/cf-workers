@@ -1,0 +1,2 @@
+# cf-workers
+vless ;ws;
