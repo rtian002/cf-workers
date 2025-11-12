@@ -4,7 +4,7 @@ import {
 
 const UUID = '1f9d104e-ca0e-4202-ba4b-a0afb969c74a';
 // 反向代理IP，无法访问时通过代理访问
-const DEFAULT_PROXY_IP = 'bestproxy.030101.xyz:443'; // 来源：https://ipdb.030101.xyz/bestdomain/
+const DEFAULT_PROXY_IP = 'cloudflare.182682.xyz:443'; // 来源：https://ipdb.030101.xyz/bestdomain/
 // 优选域名/IP
 const BEST_DOMAINS = ['bestcf.030101.xyz:443', 'japan.com:443', 'www.visa.com.sg:443', "www.visa.com.hk:443", "icook.hk:443", "icook.tw:443"]
 
